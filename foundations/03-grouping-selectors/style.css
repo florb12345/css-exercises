@@ -1,0 +1,14 @@
+#element-one {
+    background-color: black;
+    color: white;
+}
+
+#element-two {
+    background-color: yellow;
+    color: black;
+}
+
+.shared-elements {
+    font-size: 28px;
+    font: 'Helvetica', 'Times New Roman', sans-serif;
+}
